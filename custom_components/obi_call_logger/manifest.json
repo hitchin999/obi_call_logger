@@ -1,0 +1,9 @@
+{
+  "domain": "obi_call_logger",
+  "name": "OBI Call Logger",
+  "version": "1.0.0",
+  "config_flow": true,
+  "requirements": [],
+  "dependencies": [], 
+  "iot_class": "cloud_push"
+}
